@@ -1,3 +1,3 @@
 # favorite food
 
-apple
+appleは赤い果物だ
